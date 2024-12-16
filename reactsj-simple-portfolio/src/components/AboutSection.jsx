@@ -4,7 +4,10 @@ function AboutSection () {
     <div class="px-4 pt-5 my-5 text-center border-bottom">
         <h1 class=" text-center display-5 fw-bold text-body-emphasis lh-1 mb-3">About Me</h1>
         <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+        <p class="lead mb-4">Biochemist with extensive experience in the clinical. pharmaceutical/manufacturing, and start-up setting. A seasoned Lab Professional Experienced in Microbiology, Hematology, and Molecular Biology with proven success over 3+ years within the industry. Skilled in GLP and GMP, Corrective and Preventive Action, Quality Control.</p>
+        </div>
+        <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4"> </p>
         </div>
         <div class="overflow-hidden">
         <div class="container px-5">
