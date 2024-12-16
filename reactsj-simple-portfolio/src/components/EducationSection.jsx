@@ -1,7 +1,7 @@
 function EducationSection() {
   return (
         <>
-        <div class = "fulscreen-height">
+        <div id="education" class = "fulscreen-height">
         <h1 class="text-center display-5 fw-bold text-body-emphasis lh-1 mb-3">Education</h1>
         <div class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
             <div class="list-group list-group-checkable d-grid gap-2 border-0">

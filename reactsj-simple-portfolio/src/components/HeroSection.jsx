@@ -3,7 +3,7 @@ import profile from "../assets/img/pfp.jpg";
 function HeroSection() {
     return (
         <>
-        <div class ="container">
+        <div id="home" class ="container">
             <div class=" full-screen-height row flex-lg-row-reverse justify-content-center align-items-center text-center g-5 py-5">
                 <div class="col-10 col-sm-8 col-lg-5">
                     <img src={profile} class=" border-outline rounded-circle d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="450" height="500" loading="lazy"/>
