@@ -1,8 +1,17 @@
 function AboutSection () {
   return (
     <>
-      <h2 className="text-center fw-bold display-5 justify-content-center section-title">About Me</h2>
-      <p className="about-text">I'm a front-end developer with a passion for creating beautiful and functional websites. I have experience with HTML, CSS, and JavaScript, as well as frameworks like React and Angular. I'm always looking to learn new technologies and improve my skills.</p>
+    <div class="px-4 pt-5 my-5 text-center border-bottom">
+        <h1 class=" text-center display-5 fw-bold text-body-emphasis lh-1 mb-3">About Me</h1>
+        <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+        </div>
+        <div class="overflow-hidden">
+        <div class="container px-5">
+            <img src="https://i.pinimg.com/originals/8f/a8/db/8fa8db7e112b19564ab4ec2466dee396.gif" class="border-outline img-fluid rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy"/>
+        </div>
+        </div>
+    </div>
     </>
   );
 }
