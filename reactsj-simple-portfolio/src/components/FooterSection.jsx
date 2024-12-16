@@ -9,11 +9,9 @@ function FooterSection () {
             </a>
 
             <ul class="nav col-md-4 justify-content-end">
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary fw-bold">Home</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary fw-bold">Features</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary fw-bold">Pricing</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary fw-bold">FAQs</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary fw-bold">About</a></li>
+            <li class="nav-item"><a href="#home" class="nav-link px-2 text-body-secondary fw-bold">Home</a></li>
+            <li class="nav-item"><a href="https://github.com/MarkSian" class="nav-link px-2 text-body-secondary fw-bold">Github</a></li>
+            <li class="nav-item"><a href="https://www.linkedin.com/feed/?nis=true" class="nav-link px-2 text-body-secondary fw-bold">LinkedIn</a></li>
             </ul>
         </footer>
         </> 
