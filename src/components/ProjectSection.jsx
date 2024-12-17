@@ -14,7 +14,7 @@ function ProjectSection() {
               <div className="card border-outline shadow-sm">
                 <img src={amg_basketball} alt="amg project image" className="bd-placeholder-img card-img-top grey-scale project-image"/>
                 <div className="card-body">
-                  <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p className="card-text">AMG Basketball group was created to add and store player names salaries, years on team position and role! We made this application with the mindset of a Denver Nuggets GM. With this application you can add players to your roster and keep track of their positons, rolls, and salaries etc... .</p>
                   <div className="d-flex justify-content-between align-items-center">
                     <div className="btn-group">
                     <a href="https://github.com/MarkSian/amg-basketball-group" target="_blank" rel="noopener noreferrer">
@@ -35,7 +35,7 @@ function ProjectSection() {
             <div class="card border-outline shadow-sm">
               <img src={boss_view} alt="amg project image" className="bd-placeholder-img card-img-top grey-scale project-image"/>
               <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">A command-line application to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL. Purpose: A tool to better track and manage employees of varying departments.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group"> 
                   <a href="https://github.com/MarkSian/BossView" target="_blank" rel="noopener noreferrer">
@@ -55,7 +55,7 @@ function ProjectSection() {
             <div class="card border-outline shadow-sm">
               <img src={vehicle_builder} alt="vehicle_builder project image" className="bd-placeholder-img card-img-top grey-scale project-image"/>  
               <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">An application where you can create vehicles or select preset vehicles. Locate the file holding the application and execute "npm install" and "npm run start". Follow and fill out the prompts, and you will have you vehicle. You may perform various interactions. Trucks and motorbikes included.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   <a href="https://github.com/MarkSian/Vehicle-Builder-Trucks-Cars-Motorbikes" target="_blank" rel="noopener noreferrer">
@@ -74,7 +74,7 @@ function ProjectSection() {
             <div class="card border-outline shadow-sm">
               <img src={readme_gen} alt="readme_gen project image" className="bd-placeholder-img card-img-top grey-scale project-image"/>
               <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">This is an application that utilizes the command line to create a readme file for projects. This particular readme file is made from this very application.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   <a href="https://github.com/MarkSian/The-readme.MD-Generator" target="_blank" rel="noopener noreferrer">

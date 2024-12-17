@@ -1,8 +1,34 @@
-# React + Vite
+# Portfolio Page!
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A page that dispslays information about me as well as my most recent projects/resume!
+[![Portfolio!](/src/assets/img/screenshot.JPG)(https://aboutmarksian.netlify.app/)]
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+No installation required! just click the link below!
+
+## Usage
+Use this project to learn more about me! check out the link below!
+(https://aboutmarksian.netlify.app/)
+
+## License
+This project is licensed under the MIT license.
+[MIT](https://opensource.org/licenses/MIT)
+
+## Contributing
+Open to any ideas and ready to collaborate!
+
+## Tests
+N/A
+
+## Questions
+If you have any questions, please feel free to contact me at MerkSianipar@gmail.com.
