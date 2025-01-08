@@ -1,4 +1,4 @@
-import resume from "../assets/img/Resume 2024.pdf";
+import resume from "../assets/img/Resume2024.pdf";
 
 function NavBarSection() {
     return(

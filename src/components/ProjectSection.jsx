@@ -1,6 +1,6 @@
 import amg_basketball from "../assets/img/amg_basketball.jpg";
 import boss_view from "../assets/img/boss_view.jpg";
-import vehicle_builder from "../assets/img/vehicle_builder.jpg";
+import userpage from "../assets/img/userpage.jpg";
 import readme_gen from "../assets/img/readme_generator.jpg";
 
 function ProjectSection() {
@@ -53,12 +53,12 @@ function ProjectSection() {
 
           <div class="col my-2">
             <div class="card border-outline shadow-sm">
-              <img src={vehicle_builder} alt="vehicle_builder project image" className="bd-placeholder-img card-img-top grey-scale project-image"/>  
+              <img src={userpage} alt="roster radar screenshot" className="bd-placeholder-img card-img-top grey-scale project-image"/>  
               <div class="card-body">
-                <p class="card-text">An application where you can create vehicles or select preset vehicles. Locate the file holding the application and execute "npm install" and "npm run start". Follow and fill out the prompts, and you will have you vehicle. You may perform various interactions. Trucks and motorbikes included.</p>
+                <p class="card-text"> An app where you can choose from the entire NBA player pool and create your own team!</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                  <a href="https://github.com/MarkSian/Vehicle-Builder-Trucks-Cars-Motorbikes" target="_blank" rel="noopener noreferrer">
+                  <a href="https://roster-x1pq.onrender.com/login" target="_blank" rel="noopener noreferrer">
                       <button type="button" className="btn btn-sm btn-outline-secondary">View</button>
                     </a>
             
