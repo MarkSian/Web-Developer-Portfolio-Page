@@ -7,7 +7,7 @@ function AboutSection () {
         <p class="lead mb-4">Biochemist with extensive experience in the clinical. pharmaceutical/manufacturing, and start-up setting. A seasoned Lab Professional Experienced in Microbiology, Hematology, and Molecular Biology with proven success over 3+ years within the industry. Skilled in GLP and GMP, Corrective and Preventive Action, Quality Control.</p>
         </div>
         <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4">I am now aspiring to be a Full Stack Developer and am earnestly studying to be a more practiced and effecient coder.</p>
+        <p class="lead mb-4">I am now aspiring to be a Full Stack Developer and am earnestly studying to be a more practiced and efficient coder.</p>
         </div>
         <div class="col-lg-6 mx-auto">
         <p class="lead mb-4"> </p>
