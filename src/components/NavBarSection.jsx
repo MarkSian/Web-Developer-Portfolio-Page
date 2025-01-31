@@ -1,4 +1,4 @@
-import resume from "../assets/img/Resume2024.pdf";
+import resume from "../assets/img/Resume2024-1-2.pdf";
 
 function NavBarSection() {
     return(
@@ -25,7 +25,7 @@ function NavBarSection() {
                     <a class="nav-link" href="#education">Education</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href={resume} download ="Resume2024.pdf">Resume</a>
+                    <a class="nav-link" href={resume} download ="Resume2024-1-2.pdf">Resume</a>
                     </li>
 
                 </ul>
