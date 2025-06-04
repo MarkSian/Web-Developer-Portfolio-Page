@@ -1,4 +1,4 @@
-import anivault from "../assets/img/anivault.png";
+import anivault from "../assets/img/AniVault.png";
 import boss_view from "../assets/img/boss_view.jpg";
 import graphql_refactor from "../assets/img/Graphql_Refactor.jpg";
 import pokedex_gen from "../assets/img/pokedex.jpg";
