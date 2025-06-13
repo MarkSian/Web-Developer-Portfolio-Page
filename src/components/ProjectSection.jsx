@@ -1,5 +1,5 @@
 import anivault from "../assets/img/AniVault.png";
-import boss_view from "../assets/img/boss_view.jpg";
+import nuzlockeTrackingScreenshot from "../assets/img/nuzlockeTrackingScreenshot.jpg";
 import graphql_refactor from "../assets/img/GraphQL_Refactor.jpg";
 import pokedex_gen from "../assets/img/pokedex.jpg";
 
@@ -31,12 +31,12 @@ function ProjectSection() {
             </div>
             <div class="col my-2">
               <div class="card border-outline shadow-sm">
-                <img src={boss_view} alt="amg project image" className="bd-placeholder-img card-img-top grey-scale project-image" />
+                <img src={nuzlockeTrackingScreenshot} alt="Nuzlocke Tracker" className="bd-placeholder-img card-img-top grey-scale project-image" />
                 <div class="card-body">
-                  <p class="card-text">A command-line application to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL. Purpose: A tool to better track and manage employees of varying departments.</p>
+                  <p class="card-text">A full-stack web application designed to help Pokémon Nuzlocke challengers to record and manage their playthroughs for any game version.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <a href="https://github.com/MarkSian/BossView" target="_blank" rel="noopener noreferrer">
+                      <a href="https://nuzlocke-tracker-frontend.onrender.com/login" target="_blank" rel="noopener noreferrer">
                         <button type="button" className="btn btn-sm btn-outline-secondary">View</button>
                       </a>
 

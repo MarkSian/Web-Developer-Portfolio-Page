@@ -1,4 +1,4 @@
-import resume from "../assets/img/MarkSianiparResumeUS2025.pdf";
+import resume from "../assets/img/MarkSianiparResumeTRM2025.pdf";
 
 function NavBarSection() {
     return (
