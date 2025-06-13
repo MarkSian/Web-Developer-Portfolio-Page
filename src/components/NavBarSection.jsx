@@ -25,7 +25,7 @@ function NavBarSection() {
                                 <a class="nav-link" href="#education">Education</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href={resume} download="MarkSianiparResumeUS2025.pdf">Resume</a>
+                                <a class="nav-link" href={resume} download="MarkSianiparResumeTRM2025.pdf">Resume</a>
                             </li>
 
                         </ul>
